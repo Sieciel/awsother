@@ -1,0 +1,7 @@
+---
+plugin: networktocode.nautobot.invenotry
+api_endpoint: http://3.70.9.24:8080/
+token: hgTf5GBfrsabcdef0123456789abcdTTg511Sdq
+validate_certs: False
+group_by:
+ -device_roles
