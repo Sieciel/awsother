@@ -24,4 +24,4 @@ def display_locations(locations_url):
 
 
 locations_url = f"{BASE_URL}{LOCATIONS_ENDPOINT}"
-display_locations(locations_u
+display_locations(locations_u)
